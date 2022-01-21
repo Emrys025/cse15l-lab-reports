@@ -91,4 +91,8 @@ During the process that we run command on the server, we jave some skills to mak
 
 *`;`* can be used to implement multiple commands together.
 
+![image](optimize.png)
+
+In this picture, I used *`;`* twice to fast move editted document to the server and run it.
+
 Other skills like using multiple terminals to avoid exiting server and taking notes of common-used commands are quite useful. 
