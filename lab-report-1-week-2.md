@@ -1,7 +1,7 @@
 # Report 1 of Chenong Gu
 > ## Installing VScode
 
-First of all, we need to download Visual Studio Code software, which can be found on https://code.visualstudio.com/. After installing the right version depended by the operating system of our computer, we cna open it (My version is MACOS). This is what we should see when we open VScode. 
+First of all, we need to download Visual Studio Code software, which can be found on [link](https://code.visualstudio.com/). After installing the right version depended by the operating system of our computer, we cna open it (My version is MACOS). This is what we should see when we open VScode. 
 
 ![Image](installingVScode.png) 
 
