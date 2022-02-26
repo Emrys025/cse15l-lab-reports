@@ -1,4 +1,9 @@
 # Report 4 of Chenong Gu
+
+[My markdown-parse repository](https://github.com/Emrys025/markdown-parse)
+
+[The markdown-parse I reviewed](https://github.com/BasilThaddeus/markdown-parse)
+
 > ## Snippet 1
 
 > The predicted output
