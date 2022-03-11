@@ -1,4 +1,4 @@
-# Report 4 of Chenong Gu
+# Report 4 of Chenrong Gu
 
 [My markdown-parse repository](https://github.com/Emrys025/markdown-parse)
 

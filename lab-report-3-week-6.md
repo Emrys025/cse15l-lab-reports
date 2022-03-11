@@ -1,4 +1,4 @@
-# Report 3 of Chenong Gu
+# Report 3 of Chenrong Gu
 # *Group choice 3*
 > ## Copying the markdown-parse directory to my ieng6 account
 

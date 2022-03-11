@@ -1,4 +1,4 @@
-# Report 2 of Chenong Gu
+# Report 2 of Chenrong Gu
 > ## Code Change 1
 
 ![image](codechange1.png)
